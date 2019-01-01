@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'BinggraeII';
+    src: url('BinggraeII.eot');
+    src: url('BinggraeII.eot?#iefix') format('embedded-opentype'),
+        url('BinggraeII.woff2') format('woff2'),
+        url('BinggraeII.woff') format('woff'),
+        url('BinggraeII.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BinggraeII';
+    src: url('BinggraeII-Bold.eot');
+    src: url('BinggraeII-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BinggraeII-Bold.woff2') format('woff2'),
+        url('BinggraeII-Bold.woff') format('woff'),
+        url('BinggraeII-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
